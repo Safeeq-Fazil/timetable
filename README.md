@@ -51,41 +51,41 @@ Execute the program
  
   <tr>
              <td>Monday</td>
-             <td colspan="2"><center>Fundamentals of Web Application Development(19AI414)/Obed Otto</center></td>
-             <td colspan="2"><center>FREE HOURS</center></td>
-             <td><center>Mentoring/(ECA-M-AIDS)/Shanmuga Priya S</center></td>
-             <td colspan="2"><center>Fundamentals Of C Programming(19AI304)/Magitha Nirmala Tennyson</center></td>
-             <td><center>Statistics and Numerical Methods(19MA211)/Gayathri Lakshmi</center></td>
+             <td colspan="2"><center>Fundamendal of c programming</center></td>
+             <td colspan="2"><center>fundamendal of web application development</center></td>
+             <td><center>Mentor meeting</center></td>
+             <td colspan="2"><center>engineering design and modeling</center></td>
+             <td><center>Statistics and Numerical Methods</center></td>
 </tr>
 <tr>
              <td>Tuesday</td>
-             <td colspan="2"><center>Fundamentals of Web Application Development(19AI414)/Obed Otto</center></td>
+             <td colspan="2"><center>principles of chemistry in engineering</center></td>
              <td colspan="2"><center>FREE HOURS</center></td>
              <td><center>LUNCH BREAK</center></td>
-             <td colspan="2"<center>Coding Practice T06(CPT06)/Jeevitha Subramani</center></td>
+             <td colspan="2"<center>fundamendal of web application development</center></td>
 </tr>
 <tr>
              <td>Wednesday</td>
              <td colspan="1"><center>FREE HOURS</center></td>
              <td colspan="1"><center>Physics for Quantum Computing(19PH214)/Ganapathi Raman</center></td>
-             <td colspan="2"><center>Principles of Chemistry in Engineering(19CY205)/Dolli H</center></td>
+             <td colspan="2"><center>soft skills</center></td>
              <td><center>LUNCH BREAK</center></td>
-             <td colspan="2"><center>Soft Skill(19EY701)/Saranya V</center></td>
+             <td colspan="2"><center>fundamendal of web application development</center></td>
 </tr>
   <tr>
              <td>Thursday</td>
-             <td colspan="2"<center>Statistics and Numerical Methods(19MA211)/Gayathri Lakshmi</center></td>
-             <td colspan="2"><center>Coding Practice T06(CPT06)/Jeevitha Subramani</center></td>
+             <td colspan="2"<center>Statistics and Numerical Methods</center></td>
+             <td colspan="2"><center>engineering design and modeling</center></td>
              <td><center>LUNCH BREAK</center></td>
-             <td colspan="2"><center>Principles of Chemistry in Engineering(19CY205)/Dolli H</center></td>
+             <td colspan="2"><center>free hours</center></td>
              <td colspan="2"><center>Physics for Quantum Computing(19PH214)/Ganapathi Raman</center></td>
 </tr>
 <tr>
              <td>Friday</td>
-             <td colspan="2"><center>Fundamentals Of C Programming(19AI304)/Magitha Nirmala Tennyson</center></td>
-             <td colspan="2"><center>Statistics and Numerical Methods(19MA211)/Gayathri Lakshmi</center></td>
+             <td colspan="2"><center>Fundamentals Of C Programming</center></td>
+             <td colspan="2"><center>Statistics and Numerical Methods</center></td>
              <td><center>LUNCH BREAK</center></td>
-             <td colspan="2"><center>Fundamentals of Web Application Development(19AI414)/Obed Otto</center></td>
+             <td colspan="2"><center>principles of chemistry in engineering</center></td>
 </tr>
 
  
@@ -104,6 +104,7 @@ Execute the program
 </html>
 
 # OUPUT
-![image](https://user-images.githubusercontent.com/118680361/211470051-5bc59791-c37d-4732-9fe0-bcf1e97501a8.png)
+![tabletime](https://user-images.githubusercontent.com/118680361/215238178-64e1112e-f285-4c0e-95b7-ac01774048bb.png)
+
 
 
