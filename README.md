@@ -106,5 +106,7 @@ Execute the program
 # OUPUT
 ![tabletime](https://user-images.githubusercontent.com/118680361/215238178-64e1112e-f285-4c0e-95b7-ac01774048bb.png)
 
+Result:
+successfully created timetable
 
 
